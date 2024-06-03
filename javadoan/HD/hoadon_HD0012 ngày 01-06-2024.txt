@@ -1,0 +1,12 @@
+Mã hoá đơn: HD0012
+Ngày bán: 01-06-2024
+Mã nhân viên: 5
+Ghi chú: 
+
+STT     Mã sản phẩm     Tên sản phẩm      Số lượng     Đơn giá     Thành tiền     Ghi chú     
+1       33              Chân váy ngắn     1            160.0       160.0                      
+
+Giảm giá: 0
+Tổng: 160.0
+Khách trả: 160
+Khách dư: 0.0

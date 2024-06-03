@@ -1,0 +1,13 @@
+Mã hoá đơn: HD0003
+Ngày bán: 30-05-2024
+Mã nhân viên: 2
+Ghi chú: 
+
+STT     Mã sản phẩm     Tên sản phẩm      Số lượng     Đơn giá     Thành tiền     Ghi chú     
+1       28              Chân váy ngắn     1            149.0       149.0                      
+2       35              Chăn váy ngắn     1            160.0       160.0                      
+
+Giảm giá: 0
+Tổng: 309.0
+Khách trả: 350
+Khách dư: 41.0

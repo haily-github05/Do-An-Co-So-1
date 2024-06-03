@@ -1,0 +1,13 @@
+Mã hoá đơn: HD0005
+Ngày bán: 31-05-2024
+Mã nhân viên: 5
+Ghi chú: 
+
+STT     Mã sản phẩm     Tên sản phẩm           Số lượng     Đơn giá     Thành tiền     Ghi chú     
+1       25              Chân váy đuôi cá       1            170.0       170.0                      
+2       36              Quần jean ống rộng     1            180.0       180.0                      
+
+Giảm giá: 0
+Tổng: 350.0
+Khách trả: 350
+Khách dư: 0.0

@@ -1,0 +1,14 @@
+Mã hoá đơn: HD0009
+Ngày bán: 01-06-2024
+Mã nhân viên: 5
+Ghi chú: 
+
+STT     Mã sản phẩm     Tên sản phẩm              Số lượng     Đơn giá     Thành tiền     Ghi chú     
+1       26              Chân váy ngắn             2            149.0       298.0                      
+2       31              Chân váy jean đuôi cá     1            179.0       179.0                      
+3       34              Chân váy ngắn             1            160.0       160.0                      
+
+Giảm giá: 10
+Tổng: 573.3000000000001
+Khách trả: 600
+Khách dư: 26.699999999999932

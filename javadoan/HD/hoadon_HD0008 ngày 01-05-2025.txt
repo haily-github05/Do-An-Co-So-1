@@ -1,0 +1,12 @@
+Mã hoá đơn: HD0008
+Ngày bán: 01-05-2025
+Mã nhân viên: 2
+Ghi chú: vd
+
+STT     Mã sản phẩm     Tên sản phẩm              Số lượng     Đơn giá     Thành tiền     Ghi chú     
+1       31              Chân váy jean đuôi cá     1            179.0       179.0                      
+
+Giảm giá: 0
+Tổng: 179.0
+Khách trả: 200
+Khách dư: 21.0
